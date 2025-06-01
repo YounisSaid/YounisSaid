@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h2>❤️ Let's Get Connected:</h2>
+<h2> Let's Get Connected:</h2>
 <p>
   <a href="https://www.linkedin.com/in/younis-said" target="_blank" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin-right: 15px;">
