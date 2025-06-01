@@ -1,6 +1,8 @@
-<h1 style="font-size: 3.5em; font-weight: bold; margin-bottom: 20px;">
-  Hi, I’m Younis Said 👋
-</h1>
+<h2 align="left">
+  <br>Hey there! 👋<br>
+  <br> I'm Younis, a Future .NET Back-End Developer on a Mission 🚀<br>
+    
+</h2>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: block; margin-bottom: 40px;">
 
