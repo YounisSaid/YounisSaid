@@ -1,48 +1,45 @@
-# Younis Said
+<h1 style="font-size: 3.5em; font-weight: bold; margin-bottom: 20px;">
+  Hi, I’m Younis Said 👋
+</h1>
 
-<div style="text-align:center;">
-  <h1 style="font-size: 3.5em; margin-bottom: 0;">Hi, I’m Younis Said</h1>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Wave" style="width: 120px; height: auto; display: block; margin: 0 auto 40px;">
-</div>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: block; margin-bottom: 40px;">
 
----
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>Engineering Student | .NET Back-End Developer | Problem Solver Building Back-End Systems</li>
+  <li>Passionate about building full-stack desktop applications with C#, T-SQL, and C++.</li>
+  <li>Madly obsessed with software development and problem solving.</li>
+  <li>Long-term goal: become a full-stack developer who brings real-world apps to life.</li>
+</ul>
 
-**Engineering Student | .NET Back-End Developer | Problem Solver Building Back-End Systems**
-
----
-
-## 👨‍💻 About Me
-
-- 🔧 Engineering student madly obsessed with software development.
-- 💻 .NET back-end developer building full-stack desktop applications with C#, T-SQL, and C++.
-- 🧠 Passionate about problem solving and crafting efficient solutions.
-- 📈 Currently sharpening skills in advanced algorithms, data structures, and back-end architecture.
-- 🎯 Long-term goal: become a full-stack developer who brings real-world apps to life.
-
----
-
-## 🛠️ Technologies and Tools I Use
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="T-SQL" width="50" height="50"/>
+<h2>🛠 Technologies and Tools I Use:</h2>
+<p>
+  <a href="#" title="C++" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin-right: 15px;">
+  </a>
+  <a href="#" title="C#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin-right: 15px;">
+  </a>
+  <a href="#" title=".NET" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50" style="margin-right: 15px;">
+  </a>
+  <a href="#" title="Git" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin-right: 15px;">
+  </a>
+  <a href="#" title="T-SQL" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-sql-server-4-1175143.png" alt="T-SQL" width="50" height="50" style="margin-right: 15px;">
+  </a>
 </p>
 
----
-
-## 🤝 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/younis-said" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+<h2>❤️ Let's Get Connected:</h2>
+<p>
+  <a href="https://www.linkedin.com/in/younis-said" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin-right: 15px;">
   </a>
-  <a href="https://github.com/YounisSaid" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/YounisSaid" target="_blank" title="GitHub">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin-right: 15px;">
   </a>
-  <a href="https://www.facebook.com/younis.said.143380" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
+  <a href="https://www.facebook.com/younis.said.143380" target="_blank" title="Facebook">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="margin-right: 15px;">
   </a>
 </p>
