@@ -1,5 +1,11 @@
 # Younis Said
 
+👋 Hi, I’m Younis Said
+
+![Wave](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+
+---
+
 **Engineering Student | .NET Back-End Developer | Problem Solver Building Back-End Systems**
 
 ---
@@ -30,12 +36,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/younis-said" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="https://github.com/YounisSaid" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="60" height="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" height="50"/>
   </a>
   <a href="https://www.facebook.com/younis.said.143380" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="60" height="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="50" height="50"/>
   </a>
 </p>
