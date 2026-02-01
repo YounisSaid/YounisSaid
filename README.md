@@ -8,7 +8,7 @@
 <h2>👨‍💻 About Me</h2>
 <ul>
   <li>🎓 <b>Engineering Student:</b> Currently pursuing my engineering degree while specializing in high-performance software systems.</li>
-  <li>💻 <b>Back-End Specialist:</b> Focused on building robust enterprise APIs and systems using the <b>.NET 8</b> ecosystem.</li>
+  <li>💻 <b>Back-End Specialist:</b> Focused on building robust enterprise APIs and systems using the <b>.NET </b> ecosystem.</li>
   <li>🏗️ <b>Architectural Focus:</b> Deeply committed to <b>Clean Architecture</b>, Onion Architecture, and 3-Tier systems.</li>
   <li>🛠️ <b>Problem Solver:</b> Madly obsessed with software development, SOLID principles, and solving complex algorithmic challenges.</li>
   <li>🎯 <b>Goal:</b> To bridge the gap between engineering discipline and software excellence to build real-world, scalable applications.</li>
