@@ -1,17 +1,17 @@
 <h2 align="left">
   <br>Hey there! 👋<br>
-  <br> I'm Younis, a Mechanical Engineer by Degree, Software Engineer by Passion 🚀<br>
+  <br> I'm Younis, an Engineering Student & Aspiring .NET Back-End Developer 🚀<br>
 </h2>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: block; margin-bottom: 40px;">
 
 <h2>👨‍💻 About Me</h2>
 <ul>
-  <li>🎓 <b>Engineering Student:</b> Studying Mechanical Engineering while mastering the world of Software Engineering.</li>
-  <li>💻 <b>Full-Stack Developer:</b> Specializing in building scalable Back-End systems with <b>.NET 8</b> and interactive Front-Ends with <b>Angular</b>.</li>
-  <li>🏗️ <b>Architectural Focus:</b> Passionate about <b>Onion Architecture</b>, 3-Tier systems, and Clean Code principles.</li>
-  <li>🛠️ <b>Problem Solver:</b> Obsessed with algorithmic challenges and bringing real-world, high-performance applications to life.</li>
-  <li>🌍 <b>Long-term Goal:</b> Transitioning into the German tech market as a professional Software Engineer.</li>
+  <li>🎓 <b>Engineering Student:</b> Currently pursuing my engineering degree while specializing in high-performance software systems.</li>
+  <li>💻 <b>Back-End Specialist:</b> Focused on building robust enterprise APIs and systems using the <b>.NET 8</b> ecosystem.</li>
+  <li>🏗️ <b>Architectural Focus:</b> Deeply committed to <b>Clean Architecture</b>, Onion Architecture, and 3-Tier systems.</li>
+  <li>🛠️ <b>Problem Solver:</b> Madly obsessed with software development, SOLID principles, and solving complex algorithmic challenges.</li>
+  <li>🎯 <b>Goal:</b> To bridge the gap between engineering discipline and software excellence to build real-world, scalable applications.</li>
 </ul>
 
 <h2>🛠 Technologies and Tools I Use:</h2>
@@ -24,22 +24,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45" style="margin-right: 10px;">
 </p>
 
-### Frontend & Tools
+### Other Tools & Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" height="45" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" height="45" style="margin-right: 10px;">
 </p>
 
 ### Key Skills & Integrations
-* **Architecture:** Onion Architecture, 3-Tier Architecture, SOLID Principles.
+* **Architecture:** Clean Architecture, Onion Architecture, 3-Tier Architecture, SOLID Principles.
 * **Integrations:** Stripe Payment Gateway, JWT Authentication, AutoMapper.
-* **Data:** EF Core, Dapper, Specification Pattern.
+* **Data:** EF Core, Dapper, Specification Pattern, Repository & Unit of Work Patterns.
 
 <h2>🚀 Featured Projects:</h2>
 
-* **🛒 E-Commerce API Solution:** .NET 8, Onion Architecture, Redis, and Stripe Integration.
+* **🛒 E-Commerce API Solution:** .NET 8, Clean/Onion Architecture, Redis, and Stripe Integration.
 * **🏋️ Gym Management System:** ASP.NET Core MVC 3-Tier System with Role-Based Security.
 
 <h2> Let's Get Connected:</h2>
