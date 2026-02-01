@@ -1,47 +1,53 @@
 <h2 align="left">
   <br>Hey there! 👋<br>
-  <br> I'm Younis, a Future .NET Back-End Developer on a Mission 🚀<br>
-    
+  <br> I'm Younis, a Mechanical Engineer by Degree, Software Engineer by Passion 🚀<br>
 </h2>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: block; margin-bottom: 40px;">
 
 <h2>👨‍💻 About Me</h2>
 <ul>
-  <li>Engineering Student | .NET Back-End Developer | Problem Solver Building Back-End Systems</li>
-  <li>Passionate about building full-stack desktop applications with C#, T-SQL, and C++.</li>
-  <li>Madly obsessed with software development and problem solving.</li>
-  <li>Long-term goal: become a full-stack developer who brings real-world apps to life.</li>
+  <li>🎓 <b>Engineering Student:</b> Studying Mechanical Engineering while mastering the world of Software Engineering.</li>
+  <li>💻 <b>Full-Stack Developer:</b> Specializing in building scalable Back-End systems with <b>.NET 8</b> and interactive Front-Ends with <b>Angular</b>.</li>
+  <li>🏗️ <b>Architectural Focus:</b> Passionate about <b>Onion Architecture</b>, 3-Tier systems, and Clean Code principles.</li>
+  <li>🛠️ <b>Problem Solver:</b> Obsessed with algorithmic challenges and bringing real-world, high-performance applications to life.</li>
+  <li>🌍 <b>Long-term Goal:</b> Transitioning into the German tech market as a professional Software Engineer.</li>
 </ul>
 
 <h2>🛠 Technologies and Tools I Use:</h2>
+
+### Backend & Databases
 <p>
-  <a href="#" title="C++" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin-right: 15px;">
-  </a>
-  <a href="#" title="C#" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin-right: 15px;">
-  </a>
-  <a href="#" title=".NET" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50" style="margin-right: 15px;">
-  </a>
-  <a href="#" title="Git" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin-right: 15px;">
-  </a>
-  <a href="#" title="T-SQL" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-sql-server-4-1175143.png" alt="T-SQL" width="50" height="50" style="margin-right: 15px;">
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="45" height="45" style="margin-right: 10px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-sql-server-4-1175143.png" alt="SQL Server" width="45" height="45" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45" style="margin-right: 10px;">
 </p>
+
+### Frontend & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" height="45" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin-right: 10px;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" style="margin-right: 10px;">
+</p>
+
+### Key Skills & Integrations
+* **Architecture:** Onion Architecture, 3-Tier Architecture, SOLID Principles.
+* **Integrations:** Stripe Payment Gateway, JWT Authentication, AutoMapper.
+* **Data:** EF Core, Dapper, Specification Pattern.
+
+<h2>🚀 Featured Projects:</h2>
+
+* **🛒 E-Commerce API Solution:** .NET 8, Onion Architecture, Redis, and Stripe Integration.
+* **🏋️ Gym Management System:** ASP.NET Core MVC 3-Tier System with Role-Based Security.
 
 <h2> Let's Get Connected:</h2>
 <p>
-  <a href="https://www.linkedin.com/in/younis-said" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/younis-said" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;">
   </a>
-  <a href="https://github.com/YounisSaid" target="_blank" title="GitHub">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin-right: 15px;">
-  </a>
-  <a href="https://www.facebook.com/younis.said.143380" target="_blank" title="Facebook">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="margin-right: 15px;">
+  <a href="https://github.com/YounisSaid" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 15px;">
   </a>
 </p>
